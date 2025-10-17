@@ -5,9 +5,11 @@ Each project lives in its own folder with notes, screenshots, and deployment lin
 
 ## Progress
 - [ ] Responsive Web Design
+  - [ ] [Recipe Page](https://jeremylearnstocode-svg.github.io/jeremy-portfolio/01-responsive-web-design/001-recipe/) 
 - [ ] JavaScript Algorithms
 - [ ] Front End Libraries
 - [ ] Back End Development
 - [ ] APIs & Databases
 
 _Follow along as I build, automate, and share my learning!_
+
